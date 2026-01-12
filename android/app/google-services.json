@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203942620083",
+    "project_id": "vetfusion-ai",
+    "storage_bucket": "vetfusion-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203942620083:android:557a1e8df58ce5ddc379c6",
+        "android_client_info": {
+          "package_name": "com.example.vetfusion_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Mq2p9WMLm3oAg5dZTg3X4TYD2a_crIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
